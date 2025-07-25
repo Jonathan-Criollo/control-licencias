@@ -1,10 +1,9 @@
 {
   "usuarios": {
     "Jonathan": "RiasGremory",
-    "Lic1": "PYG1",
-    "Lic2": "PYG2",
-    "User": "user",
-    "Admin": "admin123"
+    "PYG": "PYG12025",
+    "Prueba": "Pruebas",
+    "Cliente": "ContadorX2025"
   },
   "acceso": true
 }
