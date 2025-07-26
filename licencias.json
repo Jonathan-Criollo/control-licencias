@@ -1,9 +1,8 @@
 {
   "usuarios": {
-    "Jonathan": "RiasGremory",
-    "PYG": "PYG12025",
-    "Prueba": "Pruebas",
-    "Cliente": "ContadorX2025"
+    "Jonathan": "$2b$12$wxHhenj5B8sD4hqtBZbrsOpXMdUt70zJMDmB5mfABVKhlK6o6RBum",
+    "PYG": "$2b$12$gAnLGXloyhe3VERPs37S2uEmWL9p7ZVYS/h6viFhjWzbnY2ZKCR9W",
+    "Cliente1": "$2b$12$ab48wbC4jC3mQy.657bSte2.Mmw5O89rTRb8CRm8M7SOEpYv3r3iq"
   },
   "sesiones": {},
   "acceso": true
